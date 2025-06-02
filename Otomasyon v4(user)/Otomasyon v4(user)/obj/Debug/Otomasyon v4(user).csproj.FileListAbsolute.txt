@@ -1,0 +1,28 @@
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\Otomasyon v4(user).exe.config
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\Otomasyon v4(user).exe
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\Otomasyon v4(user).pdb
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\EntityFramework.dll
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\EntityFramework.xml
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\obj\Debug\Otomasyon v4(user).csprojAssemblyReference.cache
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\obj\Debug\Otomasyon_v4_user_.Giris.resources
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\obj\Debug\Otomasyon_v4_user_.Properties.Resources.resources
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\obj\Debug\Otomasyon v4(user).csproj.GenerateResource.cache
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\obj\Debug\Otomasyon v4(user).csproj.CoreCompileInputs.cache
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\obj\Debug\Otomasyon v4(user).csproj.CopyComplete
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\obj\Debug\Otomasyon v4(user).exe
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\obj\Debug\Otomasyon v4(user).pdb
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\obj\Debug\Otomasyon_v4_user_.Form1.resources
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\LiveCharts.dll
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\LiveCharts.pdb
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\LiveCharts.xml
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\obj\Debug\Otomasyon_v4_user_.Rapor.resources
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\obj\Debug\Otomasyon_v4_user_.Siparis.resources
+C:\Users\Ercüment\source\repos\Otomasyon v4(user)\Otomasyon v4(user)\obj\Debug\Otomasyon_v4_user_.GirisAnimasyon.resources
